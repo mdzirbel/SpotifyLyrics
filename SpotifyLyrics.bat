@@ -1,0 +1,1 @@
+py SpotifyLyrics.py -nogui
